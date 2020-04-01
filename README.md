@@ -1,0 +1,2 @@
+# DATA_SCIENCE
+The influence of temperature and monthly or seasonwise trends on the annual electricity consumption in IIT-Bombay has been investigated in order to develop a simple and data light electricity consumption forecasting model, to be used as part of more complex planning tools. The time period considered for the historical data is from January 2017 to December 2017. Multivariable Linear regression models are developed using historical electricity consumption, day, month, and weekday. Annual electricity consumption was strongly related to the selected variables.
